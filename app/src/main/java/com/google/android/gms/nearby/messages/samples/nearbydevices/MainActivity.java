@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
     private SwitchCompat mPublishSwitch;
     private SwitchCompat mSubscribeSwitch;
     /**
-     * The {@link Message} object used to broadcast information about the device to nearby devices.
+     * The {@link Message} object used to broadcast information about the device to nearby devices.dfhdfghjfght;pilkhj;nbg;fl/knh
      */
     private Message mPubMessage;
     /**
